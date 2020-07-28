@@ -4,7 +4,6 @@ First Arduino project from a course at the University of Arizona's ISTA303 class
 ### Hardware Components Used:
 - Arduino Uno
 - LED lights (4)
-    - Colors: red, green, blue, yellow
 - Button (4)
 - Resistors (8)
 - Jumper wires
